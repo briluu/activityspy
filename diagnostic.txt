@@ -1,0 +1,35 @@
+Brians-MacBook-Pro-2:~ briluu$ adb logcat -s MainActivity
+- waiting for device -
+--------- beginning of main
+--------- beginning of system
+01-13 16:27:45.350  2474  2474 I MainActivity: onCreate event fired.
+01-13 16:27:45.351  2474  2474 I MainActivity: onStart event fired.
+01-13 16:27:45.355  2474  2474 I MainActivity: OnResume event fired.
+01-13 16:31:43.691  2474  2474 I MainActivity: OnPause event fired.
+01-13 16:31:44.812  2474  2474 I MainActivity: OnStop event fired.
+01-13 16:31:44.812  2474  2474 I MainActivity: OnDestroy event fired.
+01-13 16:31:44.812  2474  2474 E MainActivity: We’re going down, Captain!
+01-13 16:31:48.762  2474  2474 I MainActivity: onCreate event fired.
+01-13 16:31:48.771  2474  2474 I MainActivity: onStart event fired.
+01-13 16:31:48.772  2474  2474 I MainActivity: OnResume event fired.
+01-13 16:31:54.154  2474  2474 I MainActivity: OnPause event fired.
+01-13 16:31:55.161  2474  2474 I MainActivity: OnStop event fired.
+01-13 16:31:55.162  2474  2474 I MainActivity: OnDestroy event fired.
+01-13 16:31:55.162  2474  2474 E MainActivity: We’re going down, Captain!
+01-13 16:31:57.376  2474  2474 I MainActivity: onCreate event fired.
+01-13 16:31:57.377  2474  2474 I MainActivity: onStart event fired.
+01-13 16:31:57.377  2474  2474 I MainActivity: OnResume event fired.
+01-13 16:32:00.332  2474  2474 I MainActivity: OnPause event fired.
+01-13 16:32:00.751  2474  2474 I MainActivity: OnStop event fired.
+01-13 16:32:05.011  2474  2474 I MainActivity: OnRestart event fired.
+01-13 16:32:05.013  2474  2474 I MainActivity: onStart event fired.
+01-13 16:32:05.013  2474  2474 I MainActivity: OnResume event fired.
+01-13 16:32:18.883  2474  2474 I MainActivity: OnPause event fired.
+01-13 16:32:19.341  2474  2474 I MainActivity: OnStop event fired.
+01-13 16:32:25.705  2474  2474 I MainActivity: OnRestart event fired.
+01-13 16:32:25.715  2474  2474 I MainActivity: onStart event fired.
+01-13 16:32:25.715  2474  2474 I MainActivity: OnResume event fired.
+01-13 16:32:27.218  2474  2474 I MainActivity: OnPause event fired.
+01-13 16:32:27.617  2474  2474 I MainActivity: OnStop event fired.
+01-13 16:32:32.739  2474  2474 I MainActivity: OnDestroy event fired.
+01-13 16:32:32.739  2474  2474 E MainActivity: We’re going down, Captain!

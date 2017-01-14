@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/briluu/AndroidStudioProjects/ActivitySpy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2acc15c6eb7d7f87f1a07c0c6895259513feb37a">
+        <dex dex="/Users/briluu/AndroidStudioProjects/ActivitySpy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1d66a995a401e75d340da712af6c693c77d24435/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/briluu/AndroidStudioProjects/ActivitySpy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd31f395ddbbb229e7e3843487171abe52f298f0">
+        <dex dex="/Users/briluu/AndroidStudioProjects/ActivitySpy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_476efcd876f5e21eff7bce5cb256f29b4b0ec242/classes.dex" />
+    </item>
+
+</items>
